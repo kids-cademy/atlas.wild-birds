@@ -1,0 +1,2 @@
+include ':app', ':atlas', ':js-android'
+rootProject.name='wild-birds'
