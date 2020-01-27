@@ -6,9 +6,9 @@
     <string name="app_publisher">Published by kids (a)cademy</string>
     <string name="content_license">public domain knowledge</string>
     <string name="app_logotype">Wild birds from all over the world.</string>
-    <string name="app_description">Interesting facts with images and sounds of wild birds from all over the world.</string>
+    <string name="app_description">Interesting facts with images and sounds of some from existing wild birds, from all over the world.</string>
     <string name="app_about_caption">About Wild Birds Atlas</string>
-    <string name="app_about">Interesting facts with images and sounds of wild birds from all over the world.</string>
+    <string name="app_about">Wild Birds Atlas presents interesting facts with images and sounds of some from existing wild birds, from all over the world.</string>
     <string name="app_rate_caption">Rate Wild Birds Atlas</string>
     <string name="app_share_caption">Share Wild Birds Atlas</string>
 </resources>
