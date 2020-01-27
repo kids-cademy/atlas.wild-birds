@@ -1,18 +1,20 @@
 # atlas.wild-birds
 
-Wild Birds Atlas presents interesting facts with images and sounds of existing wild birds from all over the world. It is focused on facts, with reasonable amount of text and media content. 
+Wild Birds Atlas presents interesting facts with images and sounds of some from existing wild birds, from all over the world. 
 
-It is not meant to be exhaustive but rather to be used as a quick reference on a particular subject or field. For complete reference one can visit external sources that are linked on every article.
+It is focused on facts, with reasonable amount of text and media content. 
+
+It is not meant to be exhaustive but rather to be used as a quick reference on a particular subject or field. For complete reference, the reader can visit the external sources that are linked on every article.
 
 Atlas is an open source and non-profit project. Updated sources are available on GitHub, https://github.com/kids-cademy/ under Apache License 2.0.
 
-Content, including media is contributed by volunteers and most part is compiled from sources from Internet, mostly Wikipedia but by no means limited to. See the list of used sources on this document end.  
+Content, including media is contributed by volunteers and most part is compiled from sources from Internet, mostly Wikipedia but by no means limited to. See the list of used sources at the end of this document.  
 
-When copied, content is believed to be covered by fair use amendment as define by https://en.wikipedia.org/wiki/Fair_use. For rights violation please contact kids (a)cademy.
+When copied, content is believed to be covered by the fair use amendment, as define by https://en.wikipedia.org/wiki/Fair_use. For rights violation please contact kids (a)cademy.
 
-Any feedback is welcomed, especially critical ones. We really are committed to improve both presentation and content quality. You can of course contribute, please visit http://kids-cademy.com.
+Any feedback is welcomed, especially the critical one. We really are committed to improve both presentation and content quality. You can, of course, contribute. Please visit http://kids-cademy.com.
 
-Thank you for using atlas, please help improving and spread the word.
+Thank you for using the atlas, please help improving and spread the word.
 
 ## Sources
 
