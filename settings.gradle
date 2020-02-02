@@ -1,2 +1,2 @@
-include ':app', ':atlas', ':js-android'
+include ':app', ':atlas'
 rootProject.name='wild-birds'
